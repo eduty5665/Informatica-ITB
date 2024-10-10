@@ -1,0 +1,2 @@
+2023-05-20 09:36:45,575 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is not available. Remote download required.
+2023-05-20 10:34:34,351 [Worker-13: https://download.eclipse.org/releases/latest/p2.index] INFO  o.a.h.c.h.i.c.HttpRequestRetryExec - Recoverable I/O exception (java.net.SocketException) caught when processing request to {s}->https://download.eclipse.org:443

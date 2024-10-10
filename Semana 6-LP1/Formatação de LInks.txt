@@ -1,0 +1,27 @@
+Formatar Links:
+         Pseudoclasses  link hover active visited
+         link : cor do texto quando a página é aberta e o link "não foi usado"
+         hover: formatação ponteiro do mouse está sobre a área de resposta do link
+         visited: formatação do link que já foi selecionado
+         active: formatação do link quando o ponteiro do mouse está sobre a área de 
+             respota e o botão direito do mouse é pressionado 
+
+
+       <style type="text/css">
+         p{font-size:150%}
+         a {font-size:150%;text-decoration:none}
+         a:link{color:#FF0000;font-style:italic}
+         a:visited{color:#00FF00}
+         a:hover{color:#FF00FF;text-decoration:underline}
+         a:active{color:#0000FF;font-size:200%}
+     </style>
+
+         target blank tomar cuidado
+         text-decoration:none limpa a formatação padrão do link
+
+              <a href="pagina2.html">próxima página</a>  <br />
+      <a href="InserirVideo.html">VÍDEOS</a> <br />
+      <a href="fundo/birds.html"> Pássaros </a>  <br /> 
+      <a href="C:\Users\OscarJosé\Desktop\Godofredo\HTML\menu\lista1.html">MENÚ</a> <br />
+      <a href="http://www.fieb.edu.br"> FIEB </a> <br />
+      <a href="inserirVideo.html"> <img src="download.jpg" /> </a>  LINK COM IMAGEM

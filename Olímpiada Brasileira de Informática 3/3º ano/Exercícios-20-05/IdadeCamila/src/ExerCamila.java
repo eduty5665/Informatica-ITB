@@ -1,0 +1,45 @@
+import java.util.Scanner;
+
+public class ExerCamila {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Scanner tcd = new Scanner(System.in);
+		int a = tcd.nextInt();
+		int b = tcd.nextInt();
+		int c = tcd.nextInt();
+		int num1 = 0; 
+		int num2 = 0; 
+		int num3 = 0; 
+		
+		if(a > b && a > c){
+			num1 = a;
+			if(b > c) {
+				num2 = b;
+			}else {
+				num2 = c;
+			}
+		} else if(b > a && b > c){
+			num1 = b;
+			
+			if(c > a) {
+				num2 = c;
+			}else {
+				num2 = a;
+			}
+		}else if(c > a && c > b) {
+			num1 = c;
+			
+			if(b > a) {
+				num2 = b;
+			}else {
+				num2 = a;
+			}
+		}
+		
+		
+ 
+		System.out.println(num2);
+	}
+
+}

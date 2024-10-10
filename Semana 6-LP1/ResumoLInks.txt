@@ -1,0 +1,13 @@
+      Links hiperlink  ligação entre páginas adicinar abaixo na página de origem
+      sintaxe   <a href="destino.tipo"> texto a ser exibido</a>
+
+         <a href="pagina2.html"> próxima página </a>
+
+        <a href="inserirVideo.html"> VÍDEOS </a>
+
+          <a href="fundo/birds.html"> Pássaros  </a>  SUBPASTA
+
+      <a href="C:\Users\OscarJosé\Desktop\Godofredo\HTML\menu\lista1.html">MENÚ</a> 
+             caminho físico
+
+                 <a href="http://www.fieb.edu.br">FIEB</a>

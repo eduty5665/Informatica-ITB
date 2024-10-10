@@ -1,0 +1,32 @@
+<!doctype html>
+<html>
+   <head>  <title>Cats</title>
+      <meta charset="utf-8" />
+      <style type="text/css">
+         p{font-size:200%}
+         body{background-image:url(comida.jpg); testar os atributos}
+      </style>
+   </head>
+   <body>
+     <p>
+      Webtwo ipsum wikia flickr kippt oovoo jabber, meebo voki. Shopify lanyrd gooru, etsy. joukuu movity groupon.       Empressr mobly zynga jumo bebo jumo, akismet ning convore. hulu meevee tumblr. Cuil hojoki groupon kiko            plugg insala zoho woopra, doostang sococo kiko squidoo boxbe.
+     </p>
+     <p>
+      Oooooc klout twones wesabe yuntaa chumby yoono orkut gsnap, zoosk yuntaa mozy plugg heekya cuil. Blippy            boxbe spotify jaiku meebo babblely, whrrl zoho qeyno koofers. Stypi zoosk greplin zooomr vimeo chartly, kno        ebay movity etsy. Imeem boxbe palantir, jibjab. Hulu gsnap joost cloudera grockit, elgg handango.
+     </p>
+     <p>
+     Convore revver boxbe mzinga, zanga. Yammer joyent appjet heroku appjet sococo zillow, hipmunk tivo chartly         revver dropio. Woopra kaboodle joyent ideeli, prezi eduvant zooomr zimbra, tumblr ideeli. Oooooc palantir          ifttt, bitly. Twones qeyno skype udemy oooj whrrl, kno jaiku jabber. Voxy orkut kippt tumblr gooru eduvant,         zlio voxy gsnap wikia palantir, dogster greplin movity odeo.
+     </p>
+
+  </body>
+</html>
+
+============================
+                ATRIBUTOS
+         body{background-image:url(comida.jpg)}   imagem de fundo
+         body{background-image:url(comida.jpg);background-repeat:no-repeat} sem repetir
+         background-repeat:repeat-x repetir na horizontal
+         background-repeat:repeat-y repetir na vertical
+         background-size: tamanho   %  pixels
+
+        

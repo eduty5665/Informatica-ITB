@@ -1,0 +1,7 @@
+INDEX VERSION 1.131+C:\Users\edule\Documents\Estudos\1ºAno Ensino Médio\Programação de Aplicativos-Geral\PRA1-Escola\.metadata\.plugins\org.eclipse.jdt.core
+437564074.index
+3034813015.index
+3881507883.index
+2145128942.index
+1865797976.index
+2784517875.index

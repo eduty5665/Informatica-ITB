@@ -1,0 +1,17 @@
+        Protocolos FTP  SMTP  HTTP    TCP/IP     
+        HTML HYPERTEXT MARKUP LANGUAGE linguagem de formatação de texto
+            Objetivo criar página HTML     java somar, >18 , IMC comando
+        head cabeçalho
+        body corpo
+        toda tag que é aberta deve ser fechada
+        tags são escritas em minúsculo   TAG NÃO É COMANDO
+        h1 muda o tamanho e pula linha
+        p parágrafo pula linha
+        F5 atualiza no browser
+        CTRL + S salva bloco
+        <br /> quebra de linha / significa que a tag foi aberta e fechada
+        <h1 style="color:red"> cor do texto vermelho
+        <body style="text-align:center"> centraliza right direita left esquerda
+        Exercício crie sua página de dados pessoais
+
+ 

@@ -1,0 +1,14 @@
+// copiar para build.gradle (app)
+// copiar para settings.gradle
+
+//google()
+//mavenCentral()
+//mavenLocal()
+maven{
+  allowInsecureProtocol=true
+  url 'http://repoandroid:8081/repository/maven-public'
+  credentials{
+    username 'android'
+    password '123456'
+  }
+}

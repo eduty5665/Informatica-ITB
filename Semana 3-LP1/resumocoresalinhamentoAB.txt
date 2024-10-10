@@ -1,0 +1,11 @@
+                  Sistema de Cores RGB Red Green Blue
+                                    #  _ _  _ _   _ _
+                  #FF0000  vermelho
+                  #00FF00  verde
+                  #0000FF  azul
+                  #000000  preto
+                  #FFFFFF  branco
+                  tabela de cores RGB
+                  text-align:center  centro
+                             right direita
+                             left esquerda

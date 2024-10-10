@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Chico Leme Barbearia</string>
+    <string name="app_slogan">Seu estilo em evidência</string>
+    <string name="app_welcome">Seja bem vindo</string>
+    <string name="text_username">Email ou username</string>
+    <string name="text_password">Senha</string>
+    <string name="text_forgot_password">Esqueceu a senha?</string>
+    <string name="text_sign_in">Entrar</string>
+    <string name="text_login_mandatory">Campo obrigatorio</string>
+</resources>

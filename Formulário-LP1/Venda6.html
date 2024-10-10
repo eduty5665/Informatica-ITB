@@ -1,0 +1,64 @@
+<!DOCTYPE HTML>
+<html>
+   <head>
+      <title>Vendas6</title>
+      <meta charset="utf-8">
+      <script type="text/javascript">
+        function validar(){
+          var venda=document.getElementById("txtvenda").value;
+           document.getElementById("txtvenda").style.backgroundColor="#FFFFFF";
+          var din=document.getElementById("txtdin").value;
+
+           if(venda==""){
+            window.alert("Digite o valor da compra");
+            document.getElementById("txtvenda").style.backgoroundColor="#FF0000";
+            document.getElementById("txtvenda").focus();
+            return false;
+           }
+           else if(!isNaN(venda)==false){
+           window.alert("Informe um valor numérico");
+           document.getElementById("txtvenda").value="";
+           document.getElementById("txtvenda").focus();
+           return false;
+           }
+           else if(din==""){
+            window.alert("Digite o valor do dinheiro");
+            document.getElementById("txtdin").style.backgoroundColor="#FF0000";
+            document.getElementById("txtdin").focus();
+            return false;
+           }
+           else if(!isNaN(din)==false){
+           window.alert("Informe um valor numérico");
+           document.getElementById("txtdin").value="";
+           document.getElementById("txtdin").focus();
+           return false;
+           }
+           else if(venda>din){
+           window.alert("Dinheiro Insuficiente");
+           document.getElementById("txtdin").value="";
+           document.getElementById("txtdin").focus();
+           return false;
+           }
+           else{
+            window.alert("Cadastro OK");
+            return true;
+           }
+          }
+       </script>
+   </head>
+   <body>
+      <form id="frmvendas" action="processa.html" onSubmit="return validar()">
+        <fieldset id="quadro">
+          <label id="lbl1">
+             Entre valor da compra: 
+             <input type="text" id="txtvenda" />
+          </label> <br />
+          <label id="lbl2">
+             Entre valor do dinheiro:
+             <input type="text" id="txtdin" />
+          </label> <br />
+          <input type="submit" value="Confirma a compra">
+         </fieldset>
+       </form>
+    </body>
+</html>

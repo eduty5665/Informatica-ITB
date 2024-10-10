@@ -1,0 +1,42 @@
+  Objetivo Internet e forma de trocar informações / protocolos
+
+   Internet é um conjunto de redes conectadas mundialmente.
+   Funciona?
+   Hardware é a parte física
+   Software programas parte lógica
+
+   _  Hardware   fibra ótica  cabo coaxial  rádio microondas satélite
+              equipamentos para controle dessa rede
+   
+   Acessar internet provedor  NET, Vivo,  
+                     disponibiliza provedor
+
+   Meio alta velocidade  provedor usa   Backbone
+
+  _ Software conjunto de regras para troca de informações -> protocolo
+
+  email protocolor  SMTP (simple mail transfer protocol) protocolo para troca de email básico X
+                    POP 3
+      
+  baixar música vídeo   download   FTP(File Transfer Protocol) protocol trasnferência de arquivo
+
+                apostilas html css3   abre apostila <center> <font> bgcolor ->  carburador 
+                                                        CSS3       injeção eletrônica
+
+  TCP/IP     TCP (transfer control protocol) dados controle envia dados
+                  protocolo controle transferência
+
+              IP (Internet Protocol) endereço número 
+
+   HTTP  (hipertext transfer protocol) protocolo para transferência de texto
+
+    WWW se refere a World Wide Web ou, em português, rede de alcance mundial. 
+
+   
+
+  
+                                                          
+    
+
+   
+

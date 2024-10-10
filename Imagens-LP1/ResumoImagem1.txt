@@ -1,0 +1,38 @@
+Nome de arquivos de imagens
+
+
+download.jpg  DSCM2833.jpg  nomearq.ext
+
+figura1.gif  capa.bmp
+
+A tag inserção de imagem na página:
+        <img src="nomearg.ext"  />
+
+Formatação de imagem:
+
+      <img src="fig1.gif"  style="width:100px;height:170px" />
+      width  largura  height  altura  em pixels ou porcentagem
+
+Adicionar bordas:
+      <img src="capa.bmp" style="width:25%;height30%;borde-style:solid" />
+            border-style adiciona borda lisa  
+     Exemplo de página com imagem:
+
+<html>
+     <head>
+          <title>Listas</title>
+          <meta charset="utf-8" />
+    </head>
+    <body>
+       <img src="download.JPG"  />
+    <body>
+</html>
+
+Exercícios:
+
+1- Salvar a página acima como ex1.html na mesma pasta da imagem:
+
+
+
+
+

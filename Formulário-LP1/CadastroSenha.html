@@ -1,0 +1,62 @@
+<!DOCTYPE HTML>
+<html lang="pt-br">
+   <head>
+      <title>JavaScript</title>
+      <meta charset="utf-8">
+      <script type="text/javascript">
+        function testar(){
+          var email=document.getElementById("txtmail").value;
+          var senha=document.getElementById("txtsenha").value;
+
+           if(email==""){
+            window.alert("Digite o email");
+            document.getElementById("txtmail").focus();
+            document.getElementById("txtmail").style.backgroundColor="#FF0000";
+            return false;
+           }
+           else if(senha==""){
+           window.alert("Digite a senha");
+           document.getElementById("txtsenha").focus();
+           document.getElementById("txtsenha").style.backgroundColor="#FF0000";
+           return false;
+           }
+            else if(email.indexOf("@")==-1){
+            window.alert("Email inválido");
+            document.getElementById("txtmail").focus();
+            document.getElementById("txtmail").style.backgroundColor="#FF0000";
+            document.getElementById("txtmail").value="";
+            return false;
+           }
+           else if(senha!="xuxu"){
+           window.alert("Senha inválida");
+           document.getElementById("txtsenha").focus();
+           document.getElementById("txtsenha").style.backgroundColor="#FF0000";
+           document.getElementById("txtsenha").value="";
+           return false;
+           }
+           else{
+            window.alert("Cadastro OK");
+            return true;
+           }
+          }
+       </script>
+   </head>
+   <body>
+      <header>
+         <nav></nav>
+      </header>
+      <section>
+         <form id="frmcadastro" action="armazena.html" onSubmit="return testar()">
+           <p>Email:
+              <input type="text" id="txtmail" />
+           </p>
+           <p>Senha:
+              <input type="password" id="txtsenha" />
+           </p>
+              <input type="submit" />
+         </form>
+      </section>
+      <footer>
+      </footer>
+    </body>
+</html>

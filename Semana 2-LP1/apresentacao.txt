@@ -1,0 +1,14 @@
+         Objetivo construção de páginas
+         HTML  Hypertext Markup Language   - Linguagem  de Formatação Texto
+         utilizado para construção de páginas:
+
+<html>
+     <head>
+            <title> Apresentação</title>    
+     </head>
+     <body>
+        <h1>Dados Pessoais</h1>
+        <p>Nome: Godofredo da Silva</p>
+        <p>Rua das Árvores nº 547 </p>
+    </body>
+</html>

@@ -1,0 +1,13 @@
+Um site é o conjunto de páginas ordenadas num servidor de internet 
+cujo acesso ocorre a partir de um domínio.
+Dicas para construção de um site:
+não sobrecarregar no contéudo
+exibir informação de acordo com a importância
+identidade visual
+facilidade de leitura
+responsividade
+facilidade de navegação
+imagens bem preparadas
+limitar uso de banners, anúncios
+melhore o contato com a empresa
+mecanismo de busca facilitado
