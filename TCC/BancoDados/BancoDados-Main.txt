@@ -1,0 +1,17 @@
+CREATE TABLE USUARIOS(
+ID INT PRIMARY KEY IDENTITY,
+USERNAME VARCHAR(50) NOT NULL,
+USER_PASSWORD VARCHAR(50) NOT NULL,
+EMAIL VARCHAR(256) NOT NULL,
+CELL VARCHAR(14),
+NIVELACESSO VARCHAR(2),
+QUANTIDADE_VIPCLIENT VARCHAR(2))
+
+create table agendamento(
+id int primary key identity,
+id_cliente int,
+data varchar(20),
+horario varchar(10),
+tipoCorte varchar(100),
+FOREIGN KEY (id_cliente) REFERENCES USUARIOS(ID)
+)
