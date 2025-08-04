@@ -9,9 +9,9 @@ O curso técnico em informatica do ITB tem como objetivo capacitar profissionais
 
 ## 📚 Sobre as matérias
 
-```http
-  O conteúdo abrange disciplinas técnicas e do núcleo comum, oferecendo uma visão abrangente da formação, que inclui desde fundamentos da programação e desenvolvimento de sistemas até temas das ciências humanas e linguagens. Abaixo, apresento um resumo das principais matérias abordadas ao longo do curso, organizadas para facilitar a consulta e o acompanhamento do progresso nos estudos.
-```
+  |  | O conteúdo abrange disciplinas técnicas e do núcleo comum, oferecendo uma visão abrangente da formação, que inclui desde fundamentos da programação e desenvolvimento de sistemas até temas das ciências humanas e linguagens. Abaixo, apresento um resumo das principais matérias abordadas ao longo do curso, organizadas para facilitar a consulta e o acompanhamento do progresso nos estudos.  |
+| ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+
 
 | Matéria   | Resumo     |
 | :---------- | :---------  |
@@ -32,6 +32,15 @@ O curso técnico em informatica do ITB tem como objetivo capacitar profissionais
 | `Semana da Liberdade e Alteridade` | Evento interdisciplinar dedicado à reflexão sobre diversidade, respeito, empatia e direitos humanos no ambiente escolar e social. |
 | `Trabalho de Conclusão de Curso` | Projeto final integrador que aplica conhecimentos adquiridos ao longo do curso, envolvendo pesquisa, desenvolvimento e apresentação de uma solução prática. |
 
+
+
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]()
+[![linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-lemes-185715239/)
+[![email](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edulucas.le43@gmail.com)
+[![instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_eduty/)
+[![facebook](https://img.shields.io/badge/-Facebook-%230077B5?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/eduardo.januario.5876/)
 
 
 
