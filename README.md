@@ -1,4 +1,4 @@
-# Curso Técnico em Informática
+# 📍 Curso Técnico em Informática
 
 | 📖 | Neste repostório, você pode analisar os projetos realizados durante meu curso técnico em informatica pelo Instituto Técnico de Barueri, curso este integrado com o ensino médio. |
 | ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -49,3 +49,4 @@ O curso técnico em informatica do ITB tem como objetivo capacitar profissionais
 
 
 feito com 🤍 por [eduty](https://github.com/eduty5665).
+
